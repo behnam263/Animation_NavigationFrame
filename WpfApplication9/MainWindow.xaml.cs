@@ -38,7 +38,7 @@ namespace WpfApplication9
 
            if (e.NavigationMode == NavigationMode.Back)
             {
-                MessageBox.Show("");
+                MessageBox.Show("Back");
 
             }
         }
